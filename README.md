@@ -6,7 +6,7 @@ You can play around with nearly 50 different fractals. You can spend hours and h
 
 ### [Try me](https://codepen.io/mootytootyfrooty/pen/dPoZqpa)
 
-### [WebGPU port (different 3D features)]([https://codepen.io/mootytootyfrooty/pen/ByNxqKB](https://github.com/joshbrew/webgpu_fractals))
+### [WebGPU port (different 3D features)](https://github.com/joshbrew/webgpu_fractals)
 
 Inspired by https://codepen.io/setz/pen/gbpXoqw which uses a funky gamma modifier computation of the mandelbrot. 
 
